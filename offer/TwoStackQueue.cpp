@@ -1,4 +1,4 @@
-//use two stack param to relalize a Queue function
+//use two stack param to realize a Queue function
 #include <iostream>
 #include <stack>
 #include <cassert>
