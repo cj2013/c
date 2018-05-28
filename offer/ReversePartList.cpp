@@ -1,4 +1,4 @@
-//反转部分单向链表
+//反转单向链表中的一段
 #include <iostream>
 #include <cstdlib>
 #include <stack>
